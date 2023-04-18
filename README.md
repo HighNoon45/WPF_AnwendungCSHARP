@@ -1,5 +1,5 @@
 # C-TrialNError
-Erste Test Programme in C# teils Konsolenanwendungen teils WPF Anwendungen. Meist nciht 100% fleshed out.
+Erste Test Programme in C# teils Konsolenanwendungen teils WPF Anwendungen. Meist nicht 100% fleshed out.
 
 
 Popkorn: Testprogramm in WPF zum erweitern von Basisskills. Dient als Shopping Oberfläche, wobei die linke Listbox praktisch das Warenlager ist
